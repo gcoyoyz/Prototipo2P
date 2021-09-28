@@ -1,0 +1,24 @@
+C:\Users\jmora\source\repos\MVC\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\jmora\source\repos\MVC\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\jmora\source\repos\MVC\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+C:\Users\jmora\source\repos\MVC\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\jmora\source\repos\MVC\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\jmora\source\repos\MVC\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\Morataya\Desktop\Modelo-MVC-main\MVC\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Morataya\Desktop\Modelo-MVC-main\MVC\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Morataya\Desktop\Modelo-MVC-main\MVC\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Morataya\Desktop\Modelo-MVC-main\MVC\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Morataya\Desktop\Modelo-MVC-main\MVC\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Morataya\Desktop\Modelo-MVC-main\MVC\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\alecz\OneDrive\Documentos\UMG\Octavo Semestre\Analisis de Sistemas II\Primer parcial\Prototipo1P\Prototipo1P\LDI\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\alecz\OneDrive\Documentos\UMG\Octavo Semestre\Analisis de Sistemas II\Primer parcial\Prototipo1P\Prototipo1P\LDI\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\alecz\OneDrive\Documentos\UMG\Octavo Semestre\Analisis de Sistemas II\Primer parcial\Prototipo1P\Prototipo1P\LDI\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\alecz\OneDrive\Documentos\UMG\Octavo Semestre\Analisis de Sistemas II\Primer parcial\Prototipo1P\Prototipo1P\LDI\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\alecz\OneDrive\Documentos\UMG\Octavo Semestre\Analisis de Sistemas II\Primer parcial\Prototipo1P\Prototipo1P\LDI\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\alecz\OneDrive\Documentos\UMG\Octavo Semestre\Analisis de Sistemas II\Primer parcial\Prototipo1P\Prototipo1P\LDI\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\alecz\OneDrive\Documentos\UMG\Octavo Semestre\Analisis de Sistemas II\Primer parcial\Prototipo2P\Prototipo2P\MDI\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\alecz\OneDrive\Documentos\UMG\Octavo Semestre\Analisis de Sistemas II\Primer parcial\Prototipo2P\Prototipo2P\MDI\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\alecz\OneDrive\Documentos\UMG\Octavo Semestre\Analisis de Sistemas II\Primer parcial\Prototipo2P\Prototipo2P\MDI\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\alecz\OneDrive\Documentos\UMG\Octavo Semestre\Analisis de Sistemas II\Primer parcial\Prototipo2P\Prototipo2P\MDI\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\alecz\OneDrive\Documentos\UMG\Octavo Semestre\Analisis de Sistemas II\Primer parcial\Prototipo2P\Prototipo2P\MDI\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\alecz\OneDrive\Documentos\UMG\Octavo Semestre\Analisis de Sistemas II\Primer parcial\Prototipo2P\Prototipo2P\MDI\CapaModelo\obj\Debug\CapaModelo.pdb
